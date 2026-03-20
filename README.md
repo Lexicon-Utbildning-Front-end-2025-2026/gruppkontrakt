@@ -1,7 +1,7 @@
 # 🤝 Gruppkontrakt: [TEAMNAMN]
 
 **Projekt:** [Projektnamn]  
-**Period:** 3 veckor (v. XX - v. XX)  
+**Period:** 4 veckor (v. XX - v. XX)  
 **Motto:** [Skriv ert gemensamma motto här, t.ex. "Lärande framför prestige"]
 
 ---
